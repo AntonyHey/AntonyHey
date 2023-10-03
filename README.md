@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me:
-  <a href="https://www.html.it/">HTML.it</a>.
+  <a href="linkedin.com/in/antonio-sandro-domina-8341aa14a">HTML.it</a>
 
 <!---
 AntonyHey/AntonyHey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
