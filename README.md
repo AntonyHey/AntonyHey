@@ -18,7 +18,6 @@
   <!--<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1d/b6/0b/1db60b21-a162-e9ce-9a5d-c915cd6585cc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" alt="linkedin"> -->
   <p>
   <a href="https://www.linkedin.com/in/antonio-sandro-domina-8341aa14a/">Antony</a>
-<a href="mailto:antony.hey10@gmail.com"><img alt="Email" src="https://camo.githubusercontent.com/86aa1d3480d1ea330912015a1094032131ca39fb4b976c995eb1cba0ab924c8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d6a65616e6c6f75697334333340676d61696c2e636f6d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" style="max-width: 100%;"></a>
   </p>
 
 
